@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\assessmentAssignmentVivacqua\assessmentAssignmentVivacqua\bin\Debug\assessmentAssignmentVivacqua.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\assessmentAssignmentVivacqua\assessmentAssignmentVivacqua\bin\Debug\assessmentAssignmentVivacqua.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\assessmentAssignmentVivacqua\assessmentAssignmentVivacqua\bin\Debug\assessmentAssignmentVivacqua.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\assessmentAssignmentVivacqua\assessmentAssignmentVivacqua\obj\Debug\assessmentAssignmentVivacqua.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\assessmentAssignmentVivacqua\assessmentAssignmentVivacqua\obj\Debug\assessmentAssignmentVivacqua.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\assessmentAssignmentVivacqua\assessmentAssignmentVivacqua\obj\Debug\assessmentAssignmentVivacqua.pdb
